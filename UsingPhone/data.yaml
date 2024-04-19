@@ -1,0 +1,12 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: bullying
+  1: daydreaming
+  2: hand_rising
+  3: human
+  4: phone_use

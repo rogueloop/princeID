@@ -1,0 +1,12 @@
+names:
+- id-card
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: id-card-detection-dccsg
+  url: https://universe.roboflow.com/vi-8ob6k/id-card-detection-dccsg/dataset/1
+  version: 1
+  workspace: vi-8ob6k
+test: test/images
+train: train/images
+val: valid/images
